@@ -5,8 +5,8 @@
   "dependencies": {
     "@emotion/cache": "latest",
     "@emotion/react": "latest",
-    "@emotion/styled": "latest",
     "@emotion/server": "latest",
+    "@emotion/styled": "latest",
     "@mui/material": "latest",
     "clsx": "latest",
     "next": "latest",
@@ -23,6 +23,8 @@
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.4",
     "typescript": "latest"
   }
 }
